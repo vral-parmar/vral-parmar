@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Viral Parmar</h1>
 <h3 align="center">Cyber Security Researcher and former Web Developer</h3>
 
-- 📫 Hey, I m Final Year B-Tech - CSE. Student from **Rashtriya Raksha University, Gandhinagar, Gujarat**. Love to work in **Cyber Security**, **Red Teaming**, **Information Security**, etc.
+- 📫 Hey, I m Cybersecurity Professional. Love to work in **Cyber Security**, **Red Teaming**, **Information Security**, etc.
 - 👨‍💻 I am also interested in Web Development.
-- 🔭 I’m currently working on **Information Security**
+- 🔭 I’m currently working on **Cyber Security**
 - 🌱 I’m currently learning **Red Teaming** and **Offensive Security**
 - 💬 Ask me about **CTF, TryHackMe, HacktheBox, BugBounty, Network Analysis, Social Engineering, footprinting**
 
