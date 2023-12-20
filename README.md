@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Viral Parmar</h1>
-<h3 align="center">Cyber Security Researcher and former Web Developer</h3>
+<h3 align="center">Cyber Security Researcher from Bharat</h3>
 
-- 📫 Hey, I m Cybersecurity Professional. Love to work in **Cyber Security**, **Red Teaming**, **Information Security**, etc.
+- 📫 Hey, I'm a Cybersecurity Professional. I love to work in **Cyber Security**.
 - 👨‍💻 I am also interested in Web Development.
-- 🔭 I’m currently working on **Cyber Security**
 - 🌱 I’m currently learning **Red Teaming** and **Offensive Security**
-- 💬 Ask me about **CTF, TryHackMe, HacktheBox, BugBounty, Network Analysis, Social Engineering, footprinting**
+- 💬 Ask me about **CTF, TryHackMe, HacktheBox, BugBounty, Network Analysis, Social Engineering, footprinting, Cloud Security, Source code review, Server Hardening and configuration audit**
 
 *******
 💬 Always Open to help! Reach Out to me: 
