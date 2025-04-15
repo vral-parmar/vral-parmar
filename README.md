@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Viral Parmar</h1>
 <h3 align="center">Cyber Security Researcher from Bharat</h3>
 
-- 📫 Hey, I'm a Cybersecurity Professional. I work in **Cyber Security** Domain.
-- 🌱 I’m currently learning **Red Teaming** and **Offensive Security**
-- 💬 Ask me about **CTF, TryHackMe, HacktheBox, Network Analysis, Social Engineering, footprinting, Cloud Security, Source code review, Server Hardening and configuration audit**
+- 📫 Hey, I'm a Cybersecurity Professional. Nice to meet you.
+- 🌱 I’m currently doing **Security engineering** and **Offensive Security**.
+- 💬 You can ask me about **CTF, TryHackMe, HacktheBox, Network Analysis, Social Engineering, footprinting, Cloud Security, Source code review, Server Hardening and configuration audit**
 
 *******
 💬 Always Open to help! Reach Out to me: 
